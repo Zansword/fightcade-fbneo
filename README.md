@@ -1,3 +1,9 @@
+## Fightcade-fbneo-overclock
+Fightcade emulator FBNeo's Modified Version for Overclock option settings available since 2020
+Comparision Video : https://www.youtube.com/watch?v=KOrjckLB4SY
+Modifer : Chamcham425 aka Zansword
+Maintance : Chamcham425 & Alice愛麗絲 of Metal Slug Unity
+
 ## Fightcade-fbneo
 Fightcade emulator built with FBNeo and GGPO
 Public Release: https://www.fightcade.com
